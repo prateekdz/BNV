@@ -536,6 +536,4 @@ The application includes comprehensive error handling:
 - **Data Export**: json2csv
 
 ## Author
-
-Full Stack MERN Developer
 Prateek Dwivedi
