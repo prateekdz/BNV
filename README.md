@@ -538,3 +538,4 @@ The application includes comprehensive error handling:
 ## Author
 
 Full Stack MERN Developer
+Prateek Dwivedi
